@@ -15,7 +15,7 @@ This is a simple **Spotify Clone** built using **HTML**, **CSS**, and **JavaScri
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/shambhavijaiswal01/Spotify_Clone.git
+    git clone https://github.com/shambhavijaiswal01/spotify_clone
     ```
 
 2. **Navigate to the project folder**:
